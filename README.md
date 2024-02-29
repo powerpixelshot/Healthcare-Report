@@ -11,3 +11,5 @@ Through data analysis, I identified requirements and developed key performance i
 Moreover, I implemented drill-down and drill-through capabilities to enable the management team to access detailed patient views. The dashboard features filters and slicers to assist end users in data analysis. 
 
 Overall, this project provides the management team with centralized information to monitor ongoing hospital activities and make data-driven decisions.
+
+![Hospital Report](https://github.com/powerpixelshot/Healthcare-Report/assets/161690449/6040a326-8bd1-4f08-865a-f274116015fd)
