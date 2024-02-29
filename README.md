@@ -8,6 +8,6 @@ Furthermore, I created a data model to establish relationships between the fact 
 
 Through data analysis, I identified requirements and developed key performance indicators (KPIs) using card visuals. I also designed a range of interactive visuals such as bar charts, line charts, maps, and tables, incorporating custom visuals like rotating cards and scrollers.
 
-Moreover, I implemented drill-down and drill-through capabilities to enable the management team to access detailed patient views. The dashboard features filters and slicers to assist end users in data analysis. Button navigators were also integrated to facilitate report navigation.
+Moreover, I implemented drill-down and drill-through capabilities to enable the management team to access detailed patient views. The dashboard features filters and slicers to assist end users in data analysis. 
 
 Overall, this project provides the management team with centralized information to monitor ongoing hospital activities and make data-driven decisions.
