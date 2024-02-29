@@ -6,7 +6,7 @@ I utilized MS Excel as the data source and performed various data transformation
 
 Furthermore, I created a data model to establish relationships between the fact and dimension tables, including bed details, staff details, department details, and dataset tables.
 
-Through data analysis, I identified requirements and developed key performance indicators (KPIs) using card visuals. I also designed a range of interactive visuals such as bar charts, line charts, maps, and tables, incorporating custom visuals like rotating cards and scrollers.
+Through data analysis, I identified requirements and developed key performance indicators (KPIs) using card visuals. I also designed a range of interactive visuals such as bar charts, line charts, slicers and pie-chart. 
 
 Moreover, I implemented drill-down and drill-through capabilities to enable the management team to access detailed patient views. The dashboard features filters and slicers to assist end users in data analysis. 
 
